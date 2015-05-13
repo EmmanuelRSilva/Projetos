@@ -1,5 +1,5 @@
 <?php
-echo "Emmanuel Rodrigues silva";
+echo "Emmanuel Rodrigues silva !";
 
-echo "Teste";
+echo "Teste!";
 ?>
